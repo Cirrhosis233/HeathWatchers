@@ -4,10 +4,13 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to HealthWatchers!!
+# Welcome to HealthWatchers!
 
 Team Members:
 
 Letian Ye
+Xinru Li
+Zhong Zheng
+Xinran Wan
 
 """
