@@ -1,6 +1,8 @@
-# Welcome to Streamlit!
+# CMU Interactive Data Science Final Project
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+* **Online URL**: https://heathwatchers-idk8twkjjgzbracg2l9oje.streamlit.app/
+* **Team members**:
+  * zhongzhe@andrew.cmu.edu
+  * xwan2@andrew.cmu.edu
+  * xinrul@andrew.cmu.edu
+  * letiany@andrew.cmu.edu
